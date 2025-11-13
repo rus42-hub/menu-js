@@ -1,6 +1,6 @@
 - nom : Budniak
 - prénom : Ruslana
-- URL Netlify :
+- URL Netlify : https://github.com/rus42-hub/menu-js.git
 
 # Travail
 
