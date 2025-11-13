@@ -6,5 +6,10 @@ toggle.addEventListener("click", () => {
   nav.setAttribute("aria-hidden", isOpen ? "true" : "false");    
   toggle.setAttribute("aria-expanded", isOpen ? "false" : "true");
   document.body.classList.toggle("noscroll", !isOpen); 
+
+
+console.log("Menu clicked!");
+  console.log("Menu ouvert ?", !isOpen); // true если открыто, false если закрыто
+
 });
 
